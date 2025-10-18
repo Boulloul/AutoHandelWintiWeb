@@ -1,4 +1,4 @@
-import { useLocation, useParams, useNavigate } from "react-router-dom";
+import {  useParams, useNavigate } from "react-router-dom";
 import { cars } from "@/lib/cars";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";

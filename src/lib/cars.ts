@@ -1,7 +1,3 @@
-// ...new file...
-import car1 from "@/assets/car-1.jpg";
-import car2 from "@/assets/car-2.jpg";
-import car3 from "@/assets/car-3.jpg";
 
 export interface Car {
   id: string;

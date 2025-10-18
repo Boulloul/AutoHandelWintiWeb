@@ -8,7 +8,6 @@ import Home from "@/pages/Home";
 import Cars from "@/pages/Cars";
 import CarDetail from "@/pages/CarDetail";
 import NotFound from "@/pages/NotFound";
-import logo from "@/assets/AutohandelWintiLogo.png";
 import { ThemeProvider } from "@/components/ThemeProvider"
 import { ThemeToggle } from "@/components/ThemeToggle"
 import About from "./pages/About";
